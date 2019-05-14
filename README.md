@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/avpatel257/nordic-apis-2019.svg?branch=master)](https://travis-ci.org/avpatel257/nordic-apis-2019)
+
 Rest API implementation with Spring Boot + Swagger support.
 
 ### How to run?
