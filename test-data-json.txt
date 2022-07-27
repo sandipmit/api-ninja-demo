@@ -1,0 +1,50 @@
+[
+    {
+        "companyName": "SFOCompany",
+        "firstName": "Carl",
+        "lastName": "Smith",
+        "phoneNumber": "+1 444-444-4444",
+        "primaryEmail": "carl.smith@sfocompany.com",
+        "address1": "1 Lombard St",
+        "city": "San Francisco",
+        "state": "Caliornia",
+        "country": "US",
+        "postalCode": "94111"
+    },
+    {
+        "companyName": "NYCCompany",
+        "firstName": "John",
+        "lastName": "Smith",
+        "phoneNumber": "+1 123-456-7890",
+        "primaryEmail": "john.smith@nyccompany.com",
+        "address1": "1 Wall St",
+        "city": "NYC",
+        "state": "NY",
+        "country": "US",
+        "postalCode": "10286"
+    },
+    {
+        "companyName": "SFOCompany",
+        "firstName": "Michelle",
+        "lastName": "Bruke",
+        "phoneNumber": "+1 123-546-7089",
+        "primaryEmail": "michelle.bruke@nyccompany.com",
+        "address1": "1 Market St",
+        "city": "San Francisco",
+        "state": "Caliornia",
+        "country": "US",
+        "postalCode": "94105"
+    },
+    {
+        "companyName": "NYCCompany",
+        "firstName": "Bill",
+        "lastName": "Ingersoll",
+        "phoneNumber": "+1 312-456-7789",
+        "primaryEmail": "bill.ingersoll@nyccompany.com",
+        "address1": "1 water St",
+        "city": "NYC",
+        "state": "NY",
+        "country": "US",
+        "postalCode": "10004"
+    }
+]
