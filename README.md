@@ -47,7 +47,7 @@ curl -X POST "http://localhost:8080/api/v1/customers" -H "accept: */*" -H "Conte
 ##### Filter Response
 `findAll` -> [http://localhost:8080/api/v1/customers](http://localhost:8080/api/v1/customers)
 
-`search cust by companyName=Docker*` -> [http://localhost:8080/api/v1/customers?filter=companyName=Docker](http://localhost:8080/api/v1/customers?filter=companyName==Docker)
+`search cust by companyName=Docker*` -> [http://localhost:8080/api/v1/customers?filter=companyName==Docker](http://localhost:8080/api/v1/customers?filter=companyName==Docker)
 
 
 [Click here](https://github.com/avpatel257/nordic-apis-2019/blob/master/src/main/java/com/two57/demo/apininja/repository/rsql/GenericRsqlSpecBuilder.java#L15-L37) for more search patterns (RSQL - A super set of FIQL)
